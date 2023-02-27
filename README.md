@@ -2,6 +2,6 @@
 
 Library Management System built using Java Swing and MySql Database
 
-## Preview
+<!--## Preview
 
-![Preview](/snapshot/preview.gif)
+![Preview](/snapshot/preview.gif)-->
